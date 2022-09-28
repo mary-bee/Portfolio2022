@@ -39,7 +39,7 @@ body {
 	text-align: center;
 }
 .footer {
-	background: #EEC170;
+	background: #eec170;
 	margin: 0px;
 	float: left;
 	width: 100%;
@@ -47,10 +47,10 @@ body {
 	text-align: center;
 }
 a:link {
-	color: #;
+	color: #772f1a;
 }
 a:visited {
-	color: #;
+	color: #540b0e;
 }
 a:hover, a:active, a:focus {
 	text-decoration: ;
